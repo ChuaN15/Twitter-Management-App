@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="chuan.twittertwitterlittlestar.MainActivity"
+    android:id="@+id/content_frame"
+    tools:showIn="@layout/app_bar_main">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-150dp"
+
+        android:gravity="center">
+
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:orientation="horizontal"
+            android:paddingLeft="25dp"
+            android:layout_marginBottom="15dp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ic_launcher_background"/>
+        </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv2"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:paddingHorizontal="15sp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Hello World!"
+        android:layout_below="@+id/ll1"/>
+
+    <TextView
+        android:id="@+id/tv3"
+        android:textSize="30dp"
+        android:layout_width="wrap_content"
+        android:paddingHorizontal="15sp"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:layout_below="@+id/tv2"
+         />
+
+        <TextView
+            android:id="@+id/tv4"
+            android:textSize="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="15sp"
+            android:text="Hello World!"
+            android:layout_below="@+id/tv3"
+            />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

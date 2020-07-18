@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout android:layout_height="300dp" android:layout_width="300dp" android:orientation="vertical" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/image_circle"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        android:elevation="12dp"
+        android:innerRadius="0dp"
+        android:shape="ring"
+        android:thicknessRatio="1.9"
+        app:cardCornerRadius="40dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:id="@+id/dialog_image"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+    </android.support.v7.widget.CardView>
+    <!--<ImageView
+        android:id="@+id/dialog_image"
+        android:layout_height="100dp" android:layout_width="100dp" android:contentDescription="@string/app_name" android:layout_marginTop="10dp" android:layout_margin="5dp" android:layout_gravity="center"/>-->
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_marginStart="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/leftLinear"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="18sp"
+            android:text="@string/following"
+            android:id="@+id/textViewFollowing" />
+
+        <TextView
+            android:id="@+id/following_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="123"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_toEndOf="@+id/leftLinear"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/textViewFollower"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/follower"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/follower_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textViewFollower"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/textViewFollower"
+        android:layout_gravity="center"
+        android:text="123"
+        android:textSize="18sp" />
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+    <FrameLayout android:layout_height="wrap_content"  android:layout_width="match_parent" android:layout_marginTop="10dp" android:layout_marginBottom="5dp">
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="46dp"
+            android:layout_gravity="center|left" android:text="Stork" android:id="@+id/hello" style="?android:attr/borderlessButtonStyle" android:textStyle="bold"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_marginEnd="43dp"
+            android:layout_width="wrap_content" android:layout_gravity="center|right" android:text="Close" android:id="@+id/close" style="?android:attr/borderlessButtonStyle" android:textStyle="bold"/>
+
+    </FrameLayout>
+
+</LinearLayout>

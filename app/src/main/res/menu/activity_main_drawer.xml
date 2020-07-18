@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/AppTheme"
+    android:background="@color/colorPrimary"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/following_icon"
+            android:title="Following" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/follower_icon"
+            android:title="Followers" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_action_name"
+            android:title="No Follow Back" />
+        <item
+            android:id="@+id/nav_unfollowers"
+            android:icon="@drawable/ic_action_name"
+            android:title="Unfollowerss" />
+        <!--
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />-->
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:17:1-28:12
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\83ff16a5d72d52a11539a769d72d0903\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\b8b6bf3062e6e4516bef4ac585ac5245\AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\00436c4b94f51be7b52eabc3a78d8122\AndroidManifest.xml:17:1-28:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:18:1-39:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c33354ef9f6e8cddaf61ce222d2bec70\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4076c57ca4567b7454f6645c7c952735\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\113b831633129d3765ce6910c12df20e\AndroidManifest.xml:15:1-21:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:18:1-35:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\172a307020e8e2f15c990975f2799b6c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d87b5995efbec0c81b97edbc5f37de1e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8b3ee3f9a00fe76eb38de4bc4bab81b7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2fcd00892b6337f8101baf318c822041\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5c29a0f1a045033672b6cf6456b938b6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86a94f81b7a7cdafc979b187e47f832e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\406b5fdef1e90a9315b8f92316da63d3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\115b63f02f0818aa66c9e38520289625\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\632b2353ef74b6f51ded110371682c5c\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:22:5-26:19
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\83ff16a5d72d52a11539a769d72d0903\AndroidManifest.xml:11:5-14:19
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\83ff16a5d72d52a11539a769d72d0903\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\b8b6bf3062e6e4516bef4ac585ac5245\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\b8b6bf3062e6e4516bef4ac585ac5245\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:27:5-35:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\00436c4b94f51be7b52eabc3a78d8122\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\00436c4b94f51be7b52eabc3a78d8122\AndroidManifest.xml:22:5-26:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:27:5-37:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c33354ef9f6e8cddaf61ce222d2bec70\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c33354ef9f6e8cddaf61ce222d2bec70\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4076c57ca4567b7454f6645c7c952735\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4076c57ca4567b7454f6645c7c952735\AndroidManifest.xml:9:5-20
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:27:5-33:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\172a307020e8e2f15c990975f2799b6c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\172a307020e8e2f15c990975f2799b6c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d87b5995efbec0c81b97edbc5f37de1e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d87b5995efbec0c81b97edbc5f37de1e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8b3ee3f9a00fe76eb38de4bc4bab81b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8b3ee3f9a00fe76eb38de4bc4bab81b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2fcd00892b6337f8101baf318c822041\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2fcd00892b6337f8101baf318c822041\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5c29a0f1a045033672b6cf6456b938b6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5c29a0f1a045033672b6cf6456b938b6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86a94f81b7a7cdafc979b187e47f832e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86a94f81b7a7cdafc979b187e47f832e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\406b5fdef1e90a9315b8f92316da63d3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\406b5fdef1e90a9315b8f92316da63d3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\115b63f02f0818aa66c9e38520289625\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\115b63f02f0818aa66c9e38520289625\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\632b2353ef74b6f51ded110371682c5c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\632b2353ef74b6f51ded110371682c5c\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:9:9-54
+	android:largeHeap
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:12:9-40
+activity#chuan.twittertwitterlittlestar.DynamicRecyclerActivity
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:14:9-18:20
+	android:label
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:14:19-58
+activity#chuan.twittertwitterlittlestar.MainActivity
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:20:9-24:20
+	android:label
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:21:13-41
+activity#chuan.twittertwitterlittlestar.LoginActivity
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:26:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:20:5-44
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\83ff16a5d72d52a11539a769d72d0903\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\83ff16a5d72d52a11539a769d72d0903\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\b8b6bf3062e6e4516bef4ac585ac5245\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\b8b6bf3062e6e4516bef4ac585ac5245\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\00436c4b94f51be7b52eabc3a78d8122\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\00436c4b94f51be7b52eabc3a78d8122\AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c33354ef9f6e8cddaf61ce222d2bec70\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c33354ef9f6e8cddaf61ce222d2bec70\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4076c57ca4567b7454f6645c7c952735\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4076c57ca4567b7454f6645c7c952735\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\113b831633129d3765ce6910c12df20e\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\113b831633129d3765ce6910c12df20e\AndroidManifest.xml:19:5-43
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\172a307020e8e2f15c990975f2799b6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\172a307020e8e2f15c990975f2799b6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d87b5995efbec0c81b97edbc5f37de1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d87b5995efbec0c81b97edbc5f37de1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8b3ee3f9a00fe76eb38de4bc4bab81b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8b3ee3f9a00fe76eb38de4bc4bab81b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2fcd00892b6337f8101baf318c822041\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2fcd00892b6337f8101baf318c822041\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5c29a0f1a045033672b6cf6456b938b6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5c29a0f1a045033672b6cf6456b938b6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86a94f81b7a7cdafc979b187e47f832e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86a94f81b7a7cdafc979b187e47f832e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\406b5fdef1e90a9315b8f92316da63d3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\406b5fdef1e90a9315b8f92316da63d3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\115b63f02f0818aa66c9e38520289625\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\115b63f02f0818aa66c9e38520289625\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\632b2353ef74b6f51ded110371682c5c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\632b2353ef74b6f51ded110371682c5c\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chuan\Desktop\Done Project\TwitterTwitterLittleStar\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\a9d9f6731fef0df47f291915799be44c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\00436c4b94f51be7b52eabc3a78d8122\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\00436c4b94f51be7b52eabc3a78d8122\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c33354ef9f6e8cddaf61ce222d2bec70\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c33354ef9f6e8cddaf61ce222d2bec70\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\172a307020e8e2f15c990975f2799b6c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\172a307020e8e2f15c990975f2799b6c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d87b5995efbec0c81b97edbc5f37de1e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d87b5995efbec0c81b97edbc5f37de1e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8b3ee3f9a00fe76eb38de4bc4bab81b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\8b3ee3f9a00fe76eb38de4bc4bab81b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2fcd00892b6337f8101baf318c822041\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\2fcd00892b6337f8101baf318c822041\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5c29a0f1a045033672b6cf6456b938b6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5c29a0f1a045033672b6cf6456b938b6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86a94f81b7a7cdafc979b187e47f832e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\86a94f81b7a7cdafc979b187e47f832e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\406b5fdef1e90a9315b8f92316da63d3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\406b5fdef1e90a9315b8f92316da63d3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\115b63f02f0818aa66c9e38520289625\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\115b63f02f0818aa66c9e38520289625\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\632b2353ef74b6f51ded110371682c5c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\632b2353ef74b6f51ded110371682c5c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\00c20dbed0128f23ea0d0289c4197b84\AndroidManifest.xml:24:13-51
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\eca894d6b9a191e9e08dda133bf6f174\AndroidManifest.xml:33:13-75
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\6de2293ee1f2d8008cd29da86e5e318a\AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\8611640a5db365ade8109a1fb70ea1ba\AndroidManifest.xml:29:13-79
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chuan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\933dbbdfd24c0470e361488d51978ae3\AndroidManifest.xml:26:13-58
